@@ -87,7 +87,6 @@ Queue
 Quit
 Reactivate
 Read
-Recite
 Record
 Recursive
 Register
@@ -101,13 +100,13 @@ Set
 Setting
 Settings
 Setup
+Submit
 Show
 Sleep
 Split
 Start
 Stop
 Study
-Sub
 Terminate
 Test
 Understand
@@ -209,6 +208,8 @@ build
 button
 calculate
 call
+confirm
+Confirm
 callback
 campaign
 cart
@@ -281,6 +282,7 @@ database
 databases
 debug
 default
+Debug
 define
 del
 delete
@@ -340,8 +342,8 @@ find
 folder
 font
 fonts
-forge
 forget
+forgot
 form
 forms
 generate
@@ -467,8 +469,9 @@ quote
 reactivate
 read
 recentviews
-recite
 record
+review
+Review
 records
 recursive
 redirect
@@ -477,6 +480,8 @@ refresh_token
 register
 remove
 reports
+reset
+reject
 resend-verification
 reset-password
 resources
@@ -521,6 +526,7 @@ stop
 storefront
 stores
 study
+submit
 subscriptions
 suggestions
 summaries
@@ -572,3 +578,15 @@ visitors
 visits
 widget
 widgets
+publish
+Publish
+Import
+import
+export
+Export
+unpublish
+Unpublish
+Process
+process
+task
+Task
